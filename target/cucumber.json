@@ -1,0 +1,87 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-03T02:49:10.849Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10475183100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.setup()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Error message for not entering value",
+        "description": "",
+        "id": "purchase-foreign-currency;error-message-for-not-entering-value",
+        "after": [
+          {
+            "result": {
+              "duration": 754021900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3514380900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "the user accesses the Purchase foreign currency cash tab",
+            "match": {
+              "location": "PurchaseForeignCurrencyStepDefinition.the_user_accesses_the_Purchase_foreign_currency_cash_tab()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1198658500,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user tries to calculate cost without entering a value",
+            "match": {
+              "location": "PurchaseForeignCurrencyStepDefinition.userTriesToCalculateCostWithoutEnteringAValue()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19520600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "error message should be displayed",
+            "match": {
+              "location": "PurchaseForeignCurrencyStepDefinition.errorMessageShouldBeDisplayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@a"
+          }
+        ]
+      }
+    ],
+    "name": "Purchase Foreign Currency",
+    "description": "",
+    "id": "purchase-foreign-currency",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/PurchaseForeignCurrency.feature",
+    "tags": []
+  }
+]
