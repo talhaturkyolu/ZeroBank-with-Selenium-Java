@@ -1,5 +1,7 @@
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\PayBillsPage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\AccountActivityNavigation.java
+C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\PayeeStepDefinition.java
+C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\PurchaseForeignCurrencyStepDefinition.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\AccountActivityPage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\runners\CukesRunner.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\AccountActivityStepDefinition.java
@@ -7,12 +9,15 @@ C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_d
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\LoginStepDefinition.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\FindTransactionsPage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\FindTransactionsStepDefinition.java
+C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\PayeePage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\BasePage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\PayBillsStepDefinition.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\AccountSummaryPage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\utilities\Driver.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\runners\FailureRunner.java
+C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\runners\RegressionRunner.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\utilities\BrowserUtils.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\utilities\ConfigurationReader.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\LoginPage.java
+C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\pages\PurchaseForeignCurrencyPage.java
 C:\Users\turky\IdeaProjects\zerobankautomation\src\test\java\com\zerobank\step_definitions\Hook.java
