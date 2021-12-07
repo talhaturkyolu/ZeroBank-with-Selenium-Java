@@ -52,7 +52,7 @@ public class LoginPage extends BasePage{
     }
 
     public void thisIsForTest(){
-        // this is commment for git
+        // Almaz please accept it man
     }
 
     public String GetTextOfAlertMessage(){
