@@ -51,6 +51,10 @@ public class LoginPage extends BasePage{
 
     }
 
+    public void thisIsForTest(){
+        // this is commment for git
+    }
+
     public String GetTextOfAlertMessage(){
         BrowserUtils.waitForVisibility(WarningMessage,5);
         return WarningMessage.getText();
